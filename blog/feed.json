@@ -1,0 +1,23 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "sense4bits Blog",
+    "home_page_url": "https://sense4bits.net/blog",
+    "description": "sense4bits Blog",
+    "items": [
+        {
+            "id": "https://sense4bits.net/blog/2023/01/01/welcome",
+            "content_html": "<p>Herzlich Willkommen in meinem Blog!</p><p>Hier wird in naher Zukunft ein Blog/Dokumentation parallel zu meinem YouTube-Account entstehen.</p><p>Für alle, die hier neu sind -&gt; Es lohnt sich schon mal den YouTube Kanal <a href=\"https://youtube.com/@sense4bits\" target=\"_blank\" rel=\"noopener noreferrer\">sense4bits</a> zu abonnieren.</p>",
+            "url": "https://sense4bits.net/blog/2023/01/01/welcome",
+            "title": "Herzlich Willkommen!",
+            "summary": "Herzlich Willkommen in meinem Blog!",
+            "date_modified": "2023-01-01T00:00:00.000Z",
+            "author": {
+                "name": "Michael Moll",
+                "url": "https://github.com/sense4bits"
+            },
+            "tags": [
+                "Allgemein"
+            ]
+        }
+    ]
+}

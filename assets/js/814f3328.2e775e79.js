@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksense_4_bits_net=self.webpackChunksense_4_bits_net||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Herzlich Willkommen!","permalink":"/blog/2023/01/01/welcome"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksense_4_bits_net=self.webpackChunksense_4_bits_net||[]).push([[928],{5982:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/allgemein","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

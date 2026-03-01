@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksense_4_bits_net=self.webpackChunksense_4_bits_net||[]).push([[121],{8070:e=>{e.exports=JSON.parse('[{"label":"Docker","permalink":"/docs/tags/docker","count":1},{"label":"Container","permalink":"/docs/tags/container","count":1}]')}}]);
