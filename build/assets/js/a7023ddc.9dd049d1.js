@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksense_4_bits_net=self.webpackChunksense_4_bits_net||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"Allgemein","permalink":"/blog/tags/allgemein","count":1}]')}}]);
